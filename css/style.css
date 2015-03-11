@@ -885,9 +885,7 @@ a {
 .article-entry li code {
   padding: 1px 3px;
   margin: 0 3px;
-  background: #ddd;
   border: 1px solid #ccc;
-  font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 }
 .article-entry blockquote {
   background: #ddd;
